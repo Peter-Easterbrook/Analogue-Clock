@@ -100,6 +100,7 @@ body {
   animation-duration: 45;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
+  z-index: -1;
 }
 
 .background span:nth-child(0) {
